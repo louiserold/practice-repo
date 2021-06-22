@@ -1,2 +1,2 @@
 # practice-repo
-a simple description of the project
+A simple description of the project
